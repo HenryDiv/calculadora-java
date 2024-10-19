@@ -2,6 +2,10 @@
 
 Este repositório contém o código de uma calculadora simples desenvolvida em Java utilizando a biblioteca Swing para criar a interface gráfica.
 
+## Demonstração 
+
+![image](https://github.com/user-attachments/assets/b93a72cf-1dc1-453c-9e37-40a968da4bdc)
+
 ## Funcionalidades
 
 A calculadora permite realizar as seguintes operações:
